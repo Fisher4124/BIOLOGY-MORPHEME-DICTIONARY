@@ -1,2 +1,2 @@
 # BIOLOGY-TERMINOLOGY-DICTIONARY
-生物学术语辞典
+生物学词素(词根词缀)辞典
